@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.st.microxplorer_4.0.0.201402191421.jar" id="com.st.microxplorer" version="4.0.0.201402191421">
+      <category name="STM32CubeMX_Eclipse_Plugin"/>
+   </feature>
+   <category-def name="STM32CubeMX_Eclipse_Plugin" label="STM32CubeMX_Eclipse_Plugin"/>
+</site>
