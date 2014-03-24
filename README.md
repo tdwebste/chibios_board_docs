@@ -2,11 +2,11 @@ chibios_board_docs
 ==================
 
 
-data sheets 
--> 32f401discovery  
--> 32f407discovery
+data sheets<BR> 
+-> 32f401discovery<BR>  
+-> 32f407discovery<BR>
 
-ST Microelectronics Windows Configuration Tool
+ST Microelectronics Windows Configuration Tool<BR>
 -> stm32cube
 
 -> git
