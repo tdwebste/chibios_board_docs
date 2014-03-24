@@ -9,11 +9,11 @@ data sheets<BR>
 ST Microelectronics Windows Configuration Tool<BR>
 -> stm32cube
 
--> git
-   bash git prompt
-   .bashrc
--> git
-   -> bin
-      git-remove-history.sh
-      complete remove file from git index, 
-      can not be done with shared repo
+-> git<BR>
+   bash git prompt<BR>
+   .bashrc<BR>
+-> git<BR>
+   -> bin<BR>
+      git-remove-history.sh<BR>
+      complete remove file from git index,<BR> 
+      can not be done with shared repo<BR>
