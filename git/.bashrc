@@ -67,7 +67,7 @@ _git_repo_path() {
 #        branch=$(__git_ps1 '%s')
         branch=$(__git_ps1)
         if [ -n "$branch" ]; then 
-            n_remote="$(__git_remotes | wc -l)"
+            n_remote="$(git remote | wc -l)"
             if [ $n_remote -eq 0 ]; then 
             # no remote repo, no backup red
                 c_rem="[1;31m"
